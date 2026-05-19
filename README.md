@@ -114,7 +114,6 @@ The backend server will spin up on `http://localhost:8787`.
    bun dev
    ```
 
-Open your browser and navigate to `http://localhost:5173`.
 
 ---
 
